@@ -2,7 +2,7 @@
     "name": "opdavies/sculpin-gist-embed-bundle",
     "type": "library",
     "keywords": ["sculpin"],
-    "description": "Allows for embedding GitHub Gists into a Sculpin site."
+    "description": "Allows for embedding GitHub Gists into a Sculpin site.",
     "license": "MIT",
     "authors": [
         {
