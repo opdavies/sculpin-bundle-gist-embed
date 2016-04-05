@@ -1,0 +1,5 @@
+services:
+    sculpin_gist_embed.twig:
+        class: 'Opdavies\Sculpin\Bundle\GistEmbedBundle\Twig\GistEmbedExtension'
+        tags:
+            - { name: twig.extension }
